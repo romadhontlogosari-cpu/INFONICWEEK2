@@ -1,0 +1,5 @@
+NAMA: Muhammad Rasya Hazkamaula
+GUGUS: Javasript
+
+FIGMA ADALAH sebuah platform desain berbasis cloud yang digunakan untuk membuat antarmuka pengguna (UI/UX), prototipe, hingga ilustrasi sederhana secara kolaboratif. Aplikasi ini memungkinkan banyak orang mengerjakan satu proyek desain secara bersamaan layaknya Google Docs, sehingga mempermudah kerja tim tanpa harus bertukar file secara manual. Figma menghadirkan fitur real-time collaboration, library komponen, serta dukungan plugin yang beragam. 
+Figma menjadi pilihan populer di kalangan desainer, pengembang, maupun perusahaan untuk mempercepat proses perancangan produk digital.
