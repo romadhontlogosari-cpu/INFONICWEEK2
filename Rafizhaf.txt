@@ -1,0 +1,22 @@
+Nama    : Muhammad Rafi Zhafar Muzakki Syah
+Gugus   : Javascript
+
+Tugas :
+Figma adalah aplikasi UI/UX berbasis vektor yang berjalan di browser dan memiliki aplikasi versi dekstop juga, Figma juga memiliki
+fitur Prototyping kita bisa membuat tampilan/desain yang lebih interaktif dengan adanya fitur prototyping ini.
+
+Posisi Figma di Industri
+Figma sudah menjadi salah satu tools paling populer saat ini untuk desain UI/UX terutama perusahaan teknologi atau starup
+
+Workspace & Interface overview
+tengah = kanvas
+bawah = toolbaar
+kiri = layar panel
+kanan = property panel
+
+CRAP
+Prinsip dasar UI desain
+C = Contrast  Contrast yang bagus warna dan ukuran supaya mudah dibaca, ukuran harus jauh lebih beda dari yang lain dari shape atau bentuk bisa di sesuaikan
+R = Repetition Repetition atau komposisi yang beraturan untuk mempermudah user dalam membaca informasi
+A = Alignment  Peraturan harus konsisi dan selaras sejajar
+P = Proximity Pengelompokan pada komposisi desain
