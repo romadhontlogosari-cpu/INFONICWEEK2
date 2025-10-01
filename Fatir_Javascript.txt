@@ -1,0 +1,24 @@
+Nama    : Husnul Fatir Sidiq
+Gugus   : Javascript
+
+Tugas :
+Figma adalah aplikasi dan alat desain antarmuka pengguna (UI) 
+dan pengalaman pengguna (UX) berbasis web yang memungkinkan 
+desainer dan tim berkolaborasi secara real-time untuk membuat 
+desain aplikasi, situs web, dan prototipe interaktif.
+
+4 Prinsip dasar UI : 
+. Contrast = Perbedaan. 
+. Repetition = Pengulangan. 
+. Alignment = Perataan. 
+. Proximity = Pengelompokan.
+4 Hukum UX : 
+. Hick's Law = Menghindari terlalu banyak membuat pilihan. 
+. Fitts's Law = Membuat jarak elemen terjangkau pengguna. 
+. Miller's Law = Membatasi jumlah elemen dalam satu tampilan sebanyak 7-9. 
+. Jakob's Law = Membuat gaya tampilan seperti pada umumnya sesuai genrenya/tidak terlalu membuat gaya baru.
+4 Prinsip desain pada umumnya : 
+. Emphasis = Penekanan. 
+. Typography = Gaya teks. 
+. Colour = Pewarnaan. 
+. White Space = Ruang kosong untuk bernafas.
